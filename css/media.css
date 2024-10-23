@@ -1,0 +1,84 @@
+@media only screen and (min-width:200px) and (max-width:575px){
+    /* ----------header----------- */
+    .btn-outer{
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        background-color: #fff;
+        padding: 5px 0;
+        width: 100%;
+        justify-content: center !important;
+    }
+    .whatsappbtn,.call{
+        padding: 6px 15px;
+        font-size: 14px;
+       
+    }
+    /* ---------------banner------------- */
+.bannerContent h1{
+    font-size: 30px;
+    font-weight: bold;
+}
+.bannerContent p,.bannerContent ul li{
+    font-size: 18px;
+}
+.bannerContentBtn{
+    flex-direction: column;
+}
+.bannerContentBtn button{
+    width: 100%;
+}
+.bannerForm{
+    padding: 20px;
+
+}
+/* -------------counterSection----------- */
+.counterSection h2{
+   padding: 10px 0 0 0;
+}
+/* -----------highlightSection------------- */
+.highlightSection h2{
+    font-size: 24px;
+}
+.highlightSection p{
+    font-size: 18px;
+}
+.highlightSection button, .learnSection button{
+    width: 90%;
+}
+/* ----------certificate section---------- */
+.certificateSection .width{
+    width: 100%;
+}
+.certificateItem{
+    width: 100%;
+}
+.certificateSection button{
+    width: 100%;
+}
+/* -------------.tabbingSection------------------ */
+.tabbingSection button.btn{
+    width: 90%;
+}
+/* -----------------coverimg----------- */
+.coverimg h2{
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+}
+.coverimg p{
+    font-size: 12px;
+}
+.coverimg button{
+    width: 90%;
+}
+/* -----------accordion seciton----------- */
+.accordionSection h2{
+    font-size: 25px;
+}
+.accordionSection button.btn{
+    width: 90%;
+    margin: 20px;
+}
+}
+
